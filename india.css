@@ -224,7 +224,7 @@ small{
 {
     .wrapper{
         display: inline-flex;
-        transform: translateX(145px);
+        transform: translateX(165px);
         justify-content: space-between;
         align-items: center;
     }
