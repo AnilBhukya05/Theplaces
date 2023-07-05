@@ -219,3 +219,13 @@ small{
     size: 200px;
     width: 100px;
 }
+
+@media screen and (max-width: 600px)
+{
+    .wrapper{
+        display: inline-flex;
+        transform: translateX(145px);
+        justify-content: space-between;
+        align-items: center;
+    }
+}    
